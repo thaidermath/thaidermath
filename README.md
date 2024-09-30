@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently finalizing the project I had with New Atlantis Lab. We worked on finding the early indicator of a drop in oxygen level in the ocean. We use XGBoost, LSTM, ConvLSTM, and Conv3d models to predict oxygen levels.<br>I am eager to collaborate on a novel approach to applying Deep Learning models to Knot Theory. We aim to learn and validate the Volume Conjecture on an infinite family of 4-braids, which could open up new possibilities in our field. <br>I am currently learning Reinforcement Learning, RAG, and Transformers.<br>
+I am currently finalizing the project I had with New Atlantis Lab. We worked on finding the early indicator of a drop in oxygen level in the ocean. We use XGBoost, LSTM, ConvLSTM, and Conv3d models to predict oxygen levels.<br>I am eager to collaborate on a novel approach to applying Deep Learning models to Knot Theory. We aim to learn and validate the special version of Volume Conjecture on an infinite family of 4-braids, which could open up new possibilities in our field. <br>I am currently learning Reinforcement Learning, RAG, and Transformers.<br>
 
 
 # 💻 Tech Stack:
